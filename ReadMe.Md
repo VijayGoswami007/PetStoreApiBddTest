@@ -25,4 +25,4 @@
 
 ## You should see the result with all test passed
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/VijayGoswami007/PetStoreApiBddTest/blob/50dbdc17dcc5e5da84c579271e7ad99e10bdef1e/testresults.png)
