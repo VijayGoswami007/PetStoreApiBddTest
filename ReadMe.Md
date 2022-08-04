@@ -17,9 +17,11 @@
 
 # Running the Test
 - Maven commands to run
->`mvn install`
->`mvn verify`
->`mvn test`
+	>`mvn install`
+
+	>`mvn verify`
+
+	>`mvn test`
 
 ## You should see the result with all test passed
 
